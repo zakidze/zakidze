@@ -1,9 +1,7 @@
 ### Hi there  👋
-I'm passionate about web development projects, especially those involving Next.js. I enjoy building interactive and responsive websites that provide a seamless user experience. Let's collaborate and create amazing web applications together!
 
-Freelance career entices me with its freedom to choose projects aligned with my skills and interests, collaborate globally, expand knowledge, maintain work-life balance, and make a meaningful impact through my work.
 
-To succeed with remote clients, prioritize clear communication, establish trust through reliability, adapt to time zones and cultures, maintain a proactive approach, and actively listen to client needs for project success.
+
 
 <!--
 **zakidze/zakidze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile..
