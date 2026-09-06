@@ -40,14 +40,6 @@ I'm interested in **web development, full-stack applications with next js, and b
 * Design and integrate databases and backend services
 * Deploy and maintain web applications
 * Learn and experiment with new technologies
----
-
-
-## 📊 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zakidze\&theme=dark\&hide_border=true)
-
----
 
 
 
@@ -68,6 +60,16 @@ I'm interested in **web development, full-stack applications with next js, and b
 ### 2022
 
 <img src="./2022.png" width="100%" />
+
+
+
+
+## 📊 GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zakidze\&theme=dark\&hide_border=true)
+
+---
+
 
 ## 📫 Connect With Me
 
