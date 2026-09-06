@@ -42,14 +42,33 @@ I'm interested in **web development, full-stack applications, and building real-
 * Design and integrate databases and backend services
 * Deploy and maintain web applications
 * Learn and experiment with new technologies
-
 ---
+
 
 ## 📊 GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zakidze\&theme=dark\&hide_border=true)
 
 ---
+
+## 📈 GitHub Activity
+
+### 2025
+
+![2025 GitHub Contributions](...)
+
+### 2024
+
+![2024 GitHub Contributions](...)
+
+### 2023
+
+![2023 GitHub Contributions](...)
+
+### 2022
+
+![2022 GitHub Contributions](...)
+
 
 ## 📫 Connect With Me
 
