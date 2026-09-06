@@ -65,7 +65,7 @@ I'm interested in **web development, full-stack applications with next js, and b
 
 ### 2022
 
-![2022 GitHub Contributions](...)
+![2022 GitHub Contributions]([...](https://github.com/zakidze/zakidze/blob/main/2022.png?raw=true))
 
 
 ## 📫 Connect With Me
