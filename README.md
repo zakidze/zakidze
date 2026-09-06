@@ -2,9 +2,7 @@
 
 ### Full-Stack Developer
 
-I build modern web applications with a focus on clean UI, reliable functionality, and practical solutions.
-
-I'm interested in **web development, full-stack applications, and building real-world projects**.
+I'm interested in **web development, full-stack applications with next js, and building real-world projects**.
 
 ---
 
